@@ -6,23 +6,9 @@
 - Explore my [Professional Portfolio](https://drive.google.com/drive/folders/1c1OY4oyystenAahMeJT5qQpMw96e20Dp?usp=sharing) where you can see details about my studies and certifications
 
 ### 🛠 Skills
-| **📈 Project Delivery:** | **🤝🏽 Leadership & Clients:** | **💻 Technology:**
+| **📈 Project Delivery:** | **🤝🏽 Leadership & Clients:** | **💻 Technology:** |
 |-----------------------|----------------------------------|---------------|
-|   - Project Planning & Scheduling
-  - Scope & Requirements Management
-  - Risk & Issue Management
-  - Resource Coordination
-  - Status Reporting & Documentation  |  - Stakeholder Management
-  - Cross-functional Team Leadership
-  - Client Communication & Training
-  - Agile / Scrum Collaboration
-  - Coaching & Problem Solving  |  - Solution Architecture
-  - Oracle APEX & Oracle Autonomous Database
-  - Business Intelligence & Analytics
-  - Machine Learning & Deep Learning
-  - Ethical AI
-  - Big Data
-  - SQL & Python |
+|   - Project Planning & Scheduling <br> - Scope & Requirements Management <br> - Risk & Issue Management <br> - Resource Coordination <br> - Status Reporting & Documentation  |  - Stakeholder Management <br> - Cross-functional Team Leadership <br> - Client Communication & Training <br> - Agile / Scrum Collaboration <br> - Coaching & Problem Solving  |  - Solution Architecture <br> - Oracle APEX & Oracle Autonomous Database <br> - Business Intelligence & Analytics <br> - Machine Learning & Deep Learning <br> - Ethical AI <br> - Big Data <br> - SQL & Python |
 
 ### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/santiago-leyva-samanamud/)
