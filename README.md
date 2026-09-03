@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### My Portfolio
-- Welcome to my [Project Portfolio] (https://github.com/saels/portfolio-index/blob/main/README.md) where I share my developed projects
-- Explore my [Professional Portfolio] (https://drive.google.com/drive/folders/1c1OY4oyystenAahMeJT5qQpMw96e20Dp?usp=sharing) where you can see details about my studies and certifications
+- Welcome to my [Project Portfolio](https://github.com/saels/portfolio-index/blob/main/README.md) where I share my developed projects
+- Explore my [Professional Portfolio](https://drive.google.com/drive/folders/1c1OY4oyystenAahMeJT5qQpMw96e20Dp?usp=sharing) where you can see details about my studies and certifications
 
 ### Tools
 - SQL
