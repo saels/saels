@@ -10,7 +10,7 @@
 |-----------------------|----------------------------------|---------------|
 | Project Planning & Scheduling <br> Scope & Requirements Management <br> Risk & Issue Management <br> Resource Coordination <br> Status Reporting & Documentation | Stakeholder Management <br> Cross-functional Team Leadership <br> Client Communication & Training <br> Agile / Scrum Collaboration <br> Coaching & Problem Solving | Solution Architecture <br> Oracle APEX & Oracle Autonomous Database <br> Business Intelligence, Analytics & Big Data <br> Machine Learning, Deep Learning & Ethical AI <br> SQL & Python |
 
-<table border="2">
+<table border="5">
   <tr>
     <th>📈 Project Delivery</th>
     <th>🤝🏽 Leadership & Clients</th>
