@@ -6,10 +6,22 @@
 - Explore my [Professional Portfolio](https://drive.google.com/drive/folders/1c1OY4oyystenAahMeJT5qQpMw96e20Dp?usp=sharing) where you can see details about my studies and certifications
 
 ### 🛠 Skills
-| **📈 Project Delivery:** | **🤝🏽 Leadership & Clients:** | **💻 Technology:** |
+| **📈 Project Delivery** | **🤝🏽 Leadership & Clients** | **💻 Technology** |
 |-----------------------|----------------------------------|---------------|
 | Project Planning & Scheduling <br> Scope & Requirements Management <br> Risk & Issue Management <br> Resource Coordination <br> Status Reporting & Documentation | Stakeholder Management <br> Cross-functional Team Leadership <br> Client Communication & Training <br> Agile / Scrum Collaboration <br> Coaching & Problem Solving | Solution Architecture <br> Oracle APEX & Oracle Autonomous Database <br> Business Intelligence, Analytics & Big Data <br> Machine Learning, Deep Learning & Ethical AI <br> SQL & Python |
 
+<table border="2">
+  <tr>
+    <th>📈 Project Delivery</th>
+    <th>🤝🏽 Leadership & Clients</th>
+    <th>💻 Technology</th>
+  </tr>
+  <tr>
+    <td>Project Planning & Scheduling <br> Scope & Requirements Management <br> Risk & Issue Management <br> Resource Coordination <br> Status Reporting & Documentation
+    <td>Stakeholder Management <br> Cross-functional Team Leadership <br> Client Communication & Training <br> Agile / Scrum Collaboration <br> Coaching & Problem Solving
+    <td>Solution Architecture <br> Oracle APEX & Oracle Autonomous Database <br> Business Intelligence, Analytics & Big Data <br> Machine Learning, Deep Learning & Ethical AI <br> SQL & Python 
+</tr>
+</table>
 ### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/santiago-leyva-samanamud/)
 - [Instagram](https://www.instagram.com/techbysaels/)
