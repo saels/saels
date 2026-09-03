@@ -8,7 +8,7 @@
 ### 🛠 Skills
 | **📈 Project Delivery:** | **🤝🏽 Leadership & Clients:** | **💻 Technology:** |
 |-----------------------|----------------------------------|---------------|
-| Project Planning & Scheduling <br> Scope & Requirements Management <br> Risk & Issue Management <br> Resource Coordination <br> Status Reporting & Documentation | Stakeholder Management <br> Cross-functional Team Leadership <br> Client Communication & Training <br> Agile / Scrum Collaboration <br> Coaching & Problem Solving | Solution Architecture <br> Oracle APEX & Oracle Autonomous Database <br> Business Intelligence & Analytics <br> Machine Learning & Deep Learning <br> Ethical AI <br> Big Data <br> SQL & Python |
+| Project Planning & Scheduling <br> Scope & Requirements Management <br> Risk & Issue Management <br> Resource Coordination <br> Status Reporting & Documentation | Stakeholder Management <br> Cross-functional Team Leadership <br> Client Communication & Training <br> Agile / Scrum Collaboration <br> Coaching & Problem Solving | Solution Architecture <br> Oracle APEX & Oracle Autonomous Database <br> Business Intelligence, Analytics & Big Data <br> Machine Learning, Deep Learning & Ethical AI <br> SQL & Python |
 
 ### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/santiago-leyva-samanamud/)
