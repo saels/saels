@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Connect with me
+### 🌐 Connect with me
 [LinkedIn](https://www.linkedin.com/in/santiago-leyva-samanamud/)
