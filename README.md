@@ -8,7 +8,7 @@
 ### 🛠 Skills
 - 📈 Project Delivery: Project Planning & Scheduling - Scope & Requirements Management - Risk & Issue Management - 
 Resource Coordination - Status Reporting & Documentation
-- U+1F91D medium skin tone Leadership & Clients: Stakeholder Management - Cross-functional Team Leadership - Client Communication & Training - 
+- 🤝🏽 Leadership & Clients: Stakeholder Management - Cross-functional Team Leadership - Client Communication & Training - 
 Agile / Scrum Collaboration - Coaching & Problem Solving
 - 💻 Technology: Solution Architecture - Oracle APEX - Oracle Autonomous Database - Business Intelligence & Analytics - Machine Learning - Deep Learning - Ethical AI - Big Data - SQL - Python
 
