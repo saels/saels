@@ -1,5 +1,6 @@
 ## 🧑🏽‍💻 About Myself 
 <img width="1584" height="396" alt="AI Project Manager for GitHub" src="https://github.com/user-attachments/assets/bc666746-c6ed-4548-a719-9d2c072b2e70" />
+Hello, I'm Santiago. AI Project Manager with five years of experience leading IoT, cloud, and data solutions for fleet-monitoring and enterprise-system implementations.
 
 ### 💼 My Portfolio
 - Check my [Project Portfolio](https://github.com/saels/portfolio-index/blob/main/README.md) where I share my developed projects
