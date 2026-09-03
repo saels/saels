@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/santiago-leyva-samanamud/)
-- https://www.instagram.com/techbysaels/
+- [Instagram](https://www.instagram.com/techbysaels/)
