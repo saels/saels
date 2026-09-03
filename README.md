@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img width="1584" height="396" alt="AI Project Manager for GitHub" src="https://github.com/user-attachments/assets/bc666746-c6ed-4548-a719-9d2c072b2e70" />
 
 <!--
 **saels/saels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
