@@ -17,5 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My Portfolio
+- Welcome to my [Project Portfolio] (https://github.com/saels/portfolio-index/blob/main/README.md) where I share my developed projects
+- Explore my [Professional Portfolio] (https://drive.google.com/drive/folders/1c1OY4oyystenAahMeJT5qQpMw96e20Dp?usp=sharing) where you can see details about my studies and certifications
+
+### Tools
+- SQL
+- Python
+- Oracle APEX
+
 ### 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/santiago-leyva-samanamud/)
+- [LinkedIn](https://www.linkedin.com/in/santiago-leyva-samanamud/)
