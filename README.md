@@ -5,10 +5,12 @@
 - Check my [Project Portfolio](https://github.com/saels/portfolio-index/blob/main/README.md) where I share my developed projects
 - Explore my [Professional Portfolio](https://drive.google.com/drive/folders/1c1OY4oyystenAahMeJT5qQpMw96e20Dp?usp=sharing) where you can see details about my studies and certifications
 
-### 🛠 Tools
-- SQL
-- Python
-- Oracle APEX
+### 🛠 Skills
+- Project Delivery: Project Planning & Scheduling - Scope & Requirements Management - Risk & Issue Management - 
+Resource Coordination - Status Reporting & Documentation
+- Leadership & Clients: Stakeholder Management - Cross-functional Team Leadership - Client Communication & Training - 
+Agile / Scrum Collaboration - Coaching & Problem Solving
+- Technology: Solution Architecture - Oracle APEX - Oracle Autonomous Database - Business Intelligence & Analytics - Machine Learning - Deep Learning - Ethical AI - Big Data - SQL - Python
 
 ### 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/santiago-leyva-samanamud/)
